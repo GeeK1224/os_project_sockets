@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=c++,cmake,visualstudiocode
 
 ### C++ ###
-/Dependencies
+/dependencies
 # Prerequisites
 *.d
 
@@ -54,6 +54,7 @@ _deps
 *-prefix/
 
 ### VisualStudioCode ###
+/.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
