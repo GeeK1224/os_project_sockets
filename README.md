@@ -1,22 +1,30 @@
-### OS Project Sockets
+# OS Project Sockets
 
-##### Client-Server Architecture:
+## Client-Server Architecture
+
 There is will be description of technologies we used. It is still in development.
 
-##### User Authentication:
+## User Authentication
+
 There is will be description of technologies we used. It is still in development.
 
-##### Chat Room:
+## Chat Room
+
 There is will be description of technologies we used. It is still in development.
 
-##### Private Messaging:
+## Private Messaging
+
 There is will be description of technologies we used. It is still in development.
 
-##### Error Handling:
+## Error Handling
+
 There is will be description of technologies we used. It is still in development.
 
-##### User Interface (Optional):
+## User Interface (Optional)
+
 There is will be description of technologies we used. It is still in development.
 
-##### Documentation:
+## Documentation
+
 There is will be description of technologies we used. It is still in development.
+[documentation](https://github.com/GeeK1224/os_project_sockets/blob/main/docs/technical_requirements.md)
