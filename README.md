@@ -27,4 +27,5 @@ There is will be description of technologies we used. It is still in development
 ## Documentation
 
 There is will be description of technologies we used. It is still in development.
+
 [documentation](https://github.com/GeeK1224/os_project_sockets/blob/main/docs/technical_requirements.md)

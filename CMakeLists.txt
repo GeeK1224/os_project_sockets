@@ -3,7 +3,7 @@ project(os_project)
 
 # Set C++ standard
 set(CMAKE_CXX_STANDARD 14)
-set(INCLUDE_PATHS include/boost_1_83_0 include/crow/include)
+set(INCLUDE_PATHS include/boost_1_83_0 include/crow/include include/odb/)
 
 # Add your source files
 set(SOURCE_FILES
